@@ -1,0 +1,8 @@
+{
+  "name": "genpark-environment-variable-and-secret-drift-config-validator-skill",
+  "version": "1.0.0",
+  "description": "Validates runtime environment configuration against template schemas and detects missing keys or unreplaced placeholders",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
