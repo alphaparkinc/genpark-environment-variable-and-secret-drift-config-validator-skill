@@ -4,5 +4,8 @@
   "description": "Validates runtime environment configuration against template schemas and detects missing keys or unreplaced placeholders",
   "entrypoint": "client.py",
   "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
   "license": "MIT"
 }
